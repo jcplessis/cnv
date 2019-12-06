@@ -16,12 +16,14 @@ Quelques resources sur la CNV pour Agile Tour Lausanne 2019
 - Être heureux ce n'est pas nécessairement confortable https://www.amazon.fr/dp/2266181254/
 
 ## Vidéos
-
 - Playlist YouTube : https://www.youtube.com/playlist?list=PLRvZuqeV8-XAgKFe8Lkkc75bquIJK_0EP
 
+## Formations
+- CNV Suisse https://www.cnvsuisse.ch/
+- Compassion course online https://www.cnvc.org/training/compassion-course-online-2019
+- Club CNV (Isabelle Padovani) https://www.club-cnv.com/
 
 ## Les images utilisées dans mon talk
-
 https://unsplash.com/
 
 - Les bisons : Photo by Uriel Soberanes https://unsplash.com/@soberanes
