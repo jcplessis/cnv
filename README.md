@@ -2,9 +2,9 @@
 Quelques resources sur la CNV pour Agile Tour Lausanne 2019
 
 ## Moi
-jcplessis [ at ] serial.ch
-https://www.serial.ch/
-https://www.linkedin.com/in/jcplessis/
+- jcplessis [ at ] serial.ch
+- https://www.serial.ch/
+- https://www.linkedin.com/in/jcplessis/
 
 ## Les auteurs 
 - Marshal B. Rosenberg
